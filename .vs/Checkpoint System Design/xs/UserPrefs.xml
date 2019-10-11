@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D2FF1374-944B-7461-90AB-AFC16A4FB63C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controllers/GameCtrl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controllers/GameCtrl.cs" Line="95" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Checkpoint System Design" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="GameCtrl.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Checkpoint_220System_220Design PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
